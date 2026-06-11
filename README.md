@@ -1,9 +1,9 @@
-# 🎬 Netflix Content Analysis Dashboard
+# 🎬 Netflix Content Analysis Report
 
 An interactive multi-page Power BI dashboard analyzing Netflix's 
 global streaming content library with rich visuals and filters.
 
-## 📊 Dashboard Pages
+## 📊 Report Pages
 
 1. Title Page
 - Project intro: "An Interactive Analysis of Global Streaming Content"
